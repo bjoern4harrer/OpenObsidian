@@ -2,8 +2,6 @@
 type: Journal
 ---
 
-# Check Liste
-
 **Casio Herren Pro Trek PRG-340**  **Modul 3513**
 
 
