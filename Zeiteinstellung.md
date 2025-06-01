@@ -1,5 +1,5 @@
 ---
-type: Checklist
+type: Journal
 ---
 
 # Check Liste
@@ -54,4 +54,4 @@ type: Checklist
 
 für detaillierte Anweisungen und weitere Funktionen kannst du die offizielle Bedienungsanleitung für das **Modul 3513** auf der Casio-Website einsehen: [CASIO Official Website](https://support.casio.com/global/de/wat/manual/3513_de/AHNISYhbrhvbns.html?utm_source=chatgpt.com)
 - [x] Check 1
-- [ ] Check 2![Image](./09fff2220ed35d1f3f68572b17dd268c.jpg) 
+- [ ] Check 2!
