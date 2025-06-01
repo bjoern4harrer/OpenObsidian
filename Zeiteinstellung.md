@@ -1,3 +1,7 @@
+---
+type: Journal
+---
+
 **Casio Herren Pro Trek PRG-340**  **Modul 3513**
 Ein klassisches Design kombiniert mit modernen Funktionen wie Funkzeitempfang und Solarbetrieb. Die Uhr ist robust und eignet sich hervorragend für den täglichen Gebrauch sowie für Outdoor-Abenteuer.
 ![[Pasted image 20250601150332.png]]
